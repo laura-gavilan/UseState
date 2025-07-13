@@ -1,0 +1,14 @@
+.change-color {
+    text-align: center;
+    padding: 50px;
+}
+
+.blue {
+    background-color: #3498db;
+    color: #fff;
+}
+
+.yellow {
+    background-color: #f1c40f;
+    color: #333;
+}
