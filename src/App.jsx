@@ -33,7 +33,7 @@ export const App = () => {
 
       <CheckBox/>
 
-      <LikeButton/>
+      <LikeButton/>git
 
     </>
   )
